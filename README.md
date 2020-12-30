@@ -1,3 +1,3 @@
-This is just some randomk files
+This is just some random file
 
 nothing much.
